@@ -10,10 +10,10 @@ Los pacientes a menudo tienen que llamar por teléfono para agendar, lo que gene
 
 
 -  INTEGRANTES:
-Andres Felipe Cstillo:
-Sebastian Ortiz
+Andres Felipe Cstillo: https://github.com/Andresc707 ,
+Sebastian Ortiz: https://github.com/1sebastian2
 
 -  LISTA DE MODULOS DEL SISTEMA:
-  Modulo de gestion de citas
-  Modulo de notificaciones y recordatorios
+  Modulo de gestion de citas,
+  Modulo de notificaciones y recordatorios,
   Modulo de gestion de usuario
